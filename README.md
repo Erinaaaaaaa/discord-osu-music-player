@@ -6,7 +6,7 @@ The goal of this project is to make a music player bot that could play one's loc
  - play the different mp3 files from mapsets with multiple songs (just like from the Jump Training mapsets)
  - create playlists
  
-### What it will probably won't do:
+### What it probably won't do:
  - Read your osu! collections and map library from osu! database files. They seem to be using a custom database format that changes often.
  - Manage your maps.
  
