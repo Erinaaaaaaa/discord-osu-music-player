@@ -2,7 +2,7 @@
 The goal of this project is to make a music player bot that could play one's local osu! song library.
 
 ### What we're planning to make it able to:
- - play music from your osu! music library (_obviously_)
+ - play music from your osu! music library and broadcast it to whatever channel you'd like to (_obviously_)
  - play the different mp3 files from mapsets with multiple songs (just like from the Jump Training mapsets)
  - create playlists
  
