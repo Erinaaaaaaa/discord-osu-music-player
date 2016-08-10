@@ -12,6 +12,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using osu_Music_Parser;
 
 namespace discord_osu_music_player
 {
@@ -23,6 +24,11 @@ namespace discord_osu_music_player
         public MainWindow()
         {
             InitializeComponent();
+        }
+
+        private void button_Click(object sender, RoutedEventArgs e)
+        {
+            osuMusicParser.ScanSongs();
         }
     }
 }

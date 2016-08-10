@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "discord-osu-music-player", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiscordAPI", "DiscordAPI\DiscordAPI.csproj", "{12908B4B-BD0D-49D2-9C0D-1F16D4F3F0C5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "osuMusicParser", "osuMusicParser\osuMusicParser.csproj", "{7268711B-6D39-42F6-9021-FFCF697039C2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{12908B4B-BD0D-49D2-9C0D-1F16D4F3F0C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{12908B4B-BD0D-49D2-9C0D-1F16D4F3F0C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{12908B4B-BD0D-49D2-9C0D-1F16D4F3F0C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7268711B-6D39-42F6-9021-FFCF697039C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7268711B-6D39-42F6-9021-FFCF697039C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7268711B-6D39-42F6-9021-FFCF697039C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7268711B-6D39-42F6-9021-FFCF697039C2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
